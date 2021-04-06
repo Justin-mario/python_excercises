@@ -3,7 +3,7 @@
 x = 27.5
 y = 2
 
-print("sum of X and Y is: ", x + y)
+print("total_sum of X and Y is: ", x + y)
 print("Difference of X and Y is: ", x - y)
 print("Multiplication of X and Y is: ", x * y)
 print("True Division of X and Y is: ", x / y)
