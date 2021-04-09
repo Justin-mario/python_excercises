@@ -11,6 +11,6 @@ while user < 3:
     user_age = [age]
     user_details.append(user_age)
     user += 1
-
-for i in user_details:
-    print(i,)
+print(user_details)
+# for i in user_details:
+#    print(i,)
